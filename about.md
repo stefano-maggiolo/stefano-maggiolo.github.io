@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
+author: Stefano Maggiolo
 permalink: /about/
+original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/about-2/
 ---
+Hello! My name is Stefano Maggiolo. Since November 2012 I live in London, where I am a software engineer for [Google][1].
 
-Some information about you!
+Previously, I have studied Mathematics (in particular Algebraic Geometry) at the Universities of Ferrara and Pisa, and finally at [SISSA][2], where I got a Ph.D. in Geometry in October 2012.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+ [1]: http://www.google.com
+ [2]: http://www.sissa.it/
