@@ -1,0 +1,10 @@
+<figure {% if include.float %} class="{{ include.float }}" {% endif %} {% if include.width %} style="width: {{ include.width }}px" {% endif %}>
+ <div class="figure-container">
+  <a href="{{ include.url }}" class="imgpopup">
+   <img src="{{ include.url }}">
+  </a>
+  <figcaption>
+    {{ include.caption }}
+  </figcaption>
+ </div>
+</figure>

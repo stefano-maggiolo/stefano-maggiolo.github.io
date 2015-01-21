@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 0.5em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -117,6 +117,9 @@ img {
 }
 
 .date {
+  border-top: 1px solid #eee;
+  margin-top: 25px;
+  padding: 10px 0;
   font-style: italic;
   color: $gray;
 }
@@ -241,7 +244,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -252,11 +255,11 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
+    margin: 1em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 
@@ -287,3 +290,7 @@ footer {
 @import "highlights";
 @import "svg-icons";
 @import "share";
+@import "figure";
+@import "table";
+@import "gallery";
+@import "math";

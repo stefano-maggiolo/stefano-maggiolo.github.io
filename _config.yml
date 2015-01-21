@@ -13,9 +13,7 @@ footer-links:
 disqus: poormansmath
 google_analytics: # UA-2077547-5
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["smart", "no_intra_emphasis"]
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 
@@ -27,6 +25,8 @@ sass:
 
 gems:
   - jekyll-sitemap
+
+excerpt_separator: <!--more-->
 
 # Exclude these files from your production _site
 exclude:
