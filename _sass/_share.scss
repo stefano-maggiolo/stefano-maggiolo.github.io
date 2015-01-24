@@ -2,12 +2,15 @@
   display: flex;
   margin: 10px 0 25px;
   font-size: 1px;
+  width: 50%;
+  margin: 25px auto;
 }
 .share > div {
   display: inline-block;
   flex-grow: 1;
   text-align: center;
-  width: 110px;
+  width: 90px;
+  padding: 0 20px;
 }
 .share iframe {
   vertical-align: baseline;
