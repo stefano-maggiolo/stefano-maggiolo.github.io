@@ -1,0 +1,12 @@
+2012-10-09-ioi-translation-systems-a-survey-of-possible-approaches
+2012-10-15-ioi-translation-systems-an-ideal-workflow
+2012-10-24-ioi-translation-systems-an-actual-solution
+
+2014-02-17-suboptimal-latex-1-intro
+2014-02-24-suboptimal-latex-2-spacing
+2014-03-03-suboptimal-latex-3-mathematical-environments
+2014-03-10-suboptimal-latex-4-mathematics
+2014-05-25-suboptimal-latex-5-miscellanea
+
+2014-07-07-if-it-looks-like-a-words-then-it-is-a-word
+2014-08-25-if-it-looks-like-a-word-it-is-a-word-one-third-of-the-time
