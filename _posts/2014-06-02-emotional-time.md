@@ -56,3 +56,14 @@ Of course, using **UTC time** would be a similar way of using a unique time arou
 Even more so, using a global time would mean that people had to lose their emotional connection with specific times, and the evidences show that this is hard for people, more than changing currency [[^7]], and probably harder than changing measurement system.
 
  [^7]: Currencies, after all, change all the time thanks to inflation, so people are not locked in assigning an emotional value to specific quantities (or, they do, but then it is obvious that they are meaningless).
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [My two cents on the daylight saving time][2000]
+1. [How much is time wrong around the world?][2001]
+
+ [2000]: {% post_url 2009-03-22-my-two-cents-on-the-daylight-saving-time %}
+ [2001]: {% post_url 2014-01-06-how-much-is-time-wrong-around-the-world %}

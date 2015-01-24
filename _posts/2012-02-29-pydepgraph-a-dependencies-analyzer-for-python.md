@@ -102,3 +102,12 @@ pydepgraph -p cms -e build,cms.egg-info,dist -g 2 | dot -Tpng -o
 {% endhighlight %}
 
 {% include figure.html width=200 url='/images/depgraph08.png' caption='CMS dependencies, clustered.' %}
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [Give Python a bit of type safety with Pydoc Checker][2000]
+
+ [2000]: {% post_url 2013-10-25-give-python-a-bit-of-type-safety-with-pydoc-checker %}

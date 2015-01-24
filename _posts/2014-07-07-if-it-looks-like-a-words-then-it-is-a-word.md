@@ -88,3 +88,14 @@ The answer really depends on what we consider a letter: English is easy, 26 lett
 Anyway, comparing the used words with all possible trigrams, it turns out that the language with the highest percentage of real words is... Italian! Not considering letter variants, Italian wins with 1.32%, over English with 0.9%. If we instead consider letter variants as different letters, then English wins with, no wonder, still 0.9% over Italian with 0.56%.
 
 This is really a rough approximation of the original question, as definitely not all trigrams look like words! As this post is already too long, I will try to answer to our original question, by counting how many trigrams look like a word, in a future post.
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### Part of this series
+
+1. [If it looks like a words, then it is a word (?)][1000]
+1. [If it looks like a word, it is a word one third of the time][1001]
+
+ [1000]: {% post_url 2014-07-07-if-it-looks-like-a-words-then-it-is-a-word %}
+ [1001]: {% post_url 2014-08-25-if-it-looks-like-a-word-it-is-a-word-one-third-of-the-time %}

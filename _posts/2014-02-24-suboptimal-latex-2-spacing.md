@@ -56,3 +56,29 @@ Why anybody would want to put the ampersand after the equality sign? Because if 
   * another is to use `={}&` on all other lines, again to force the binary relation spacing around the equality sign.
 
 Next week, in the third part, we will see how to choose the perfect mathematical environments. Stay tuned!
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### Part of this series
+
+1. [Suboptimal LaTeX #1: intro][1000]
+1. [Suboptimal LaTeX #2: spacing][1001]
+1. [Suboptimal LaTeX #3: mathematical environments][1002]
+1. [Suboptimal LaTeX #4: mathematics][1003]
+1. [Suboptimal LaTeX #5: miscellanea][1004]
+
+ [1000]: {% post_url 2014-02-17-suboptimal-latex-1-intro %}
+ [1001]: {% post_url 2014-02-24-suboptimal-latex-2-spacing %}
+ [1002]: {% post_url 2014-03-03-suboptimal-latex-3-mathematical-environments %}
+ [1003]: {% post_url 2014-03-10-suboptimal-latex-4-mathematics %}
+ [1004]: {% post_url 2014-05-25-suboptimal-latex-5-miscellanea %}
+
+
+### See also
+
+1. [How to take lecture notes with LaTeX][2000]
+1. [LaTeX class for lecture notes][2001]
+
+ [2000]: {% post_url 2008-12-27-how-to-take-lecture-notes-with-latex %}
+ [2001]: {% post_url 2008-12-29-latex-class-for-lecture-notes %}

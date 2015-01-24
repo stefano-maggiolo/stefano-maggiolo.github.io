@@ -35,3 +35,14 @@ Indeed, if we acknowledge that the two problems must be solved, the natural resu
  [2]: http://en.wikipedia.org/wiki/Robinson_projection
  [3]: http://xkcd.com/977/
  [4]: http://en.wikipedia.org/wiki/Miller_cylindrical_projection
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [My two cents on the daylight saving time][2000]
+1. [Global time, emotional time, and the annoyance of DST][2001]
+
+ [2000]: {% post_url 2009-03-22-my-two-cents-on-the-daylight-saving-time %}
+ [2001]: {% post_url 2014-06-02-emotional-time %}

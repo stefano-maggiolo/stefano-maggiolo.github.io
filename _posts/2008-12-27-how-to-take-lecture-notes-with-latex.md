@@ -80,3 +80,22 @@ To sum up, I list in a single place (here) the downloads linked throughout the a
  [13]: http://poisson.phc.unipi.it/~maggiolo/index.php/tag/commu/
  [14]: http://icculus.org/referencer/
  [15]: http://www.pps.jussieu.fr/~beffara/soft/rubber/
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [LaTeX class for lecture notes][2000]
+1. [Suboptimal LaTeX #1: intro][2001]
+1. [Suboptimal LaTeX #2: spacing][2002]
+1. [Suboptimal LaTeX #3: mathematical environments][2003]
+1. [Suboptimal LaTeX #4: mathematics][2004]
+1. [Suboptimal LaTeX #5: miscellanea][2005]
+
+ [2000]: {% post_url 2008-12-29-latex-class-for-lecture-notes %}
+ [2001]: {% post_url 2014-02-17-suboptimal-latex-1-intro %}
+ [2002]: {% post_url 2014-02-24-suboptimal-latex-2-spacing %}
+ [2003]: {% post_url 2014-03-03-suboptimal-latex-3-mathematical-environments %}
+ [2004]: {% post_url 2014-03-10-suboptimal-latex-4-mathematics %}
+ [2005]: {% post_url 2014-05-25-suboptimal-latex-5-miscellanea %}

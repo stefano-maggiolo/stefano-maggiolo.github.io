@@ -32,3 +32,12 @@ Instead, NetViz disposes the points optimally in a high-dimension space and then
 What is obvious is that vizster is a much better way to display the clusters, since with my software, people in the same community end up being almost collinear (the smallest the community, the shorter the line). This is explainable by the fact that the most useful directions are the one discerning the clusters, while the people inside one cluster are almost equal considering those directions. Something that NetViz does better is to highlight the "closest friends", that is, those people who have contacts in many of the clusters. Where vizster put these people almost randomly, NetViz places them clearly outside the clusters and in a prominent position.
 
 My feeling is that with this kind of inputs, a double step process could improve a lot NetViz's performances (which does the best for graphs that resemble a mesh); for example, after placing the points using the current algorithm, one could detect the clusters by looking at the lines departing from the center and then trying to dispose the points running the same algorithm cluster by cluster. Surely this goes in my (long) todo list.
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [NetViz][2000]
+
+ [2000]: {% post_url 2008-12-15-netviz %}

@@ -51,3 +51,14 @@ To obtain the ratios, we just need to use merge.py in the same gist to intersect
 | French           | 1911                        | 615                | 32%   |
 
 Apparently, I was wrong! It's not English that shows a high ratio of three-letter words but... Italian. This of course is mainly due to the much lower number of trigrams in Italian. It is also interesting to see that German is close to be the language with the lowest ratio despite being the one with the most frequent usage of three-letter words; but we already saw that that is because its most frequent three-letter words are really frequent.
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### Part of this series
+
+1. [If it looks like a words, then it is a word (?)][1000]
+1. [If it looks like a word, it is a word one third of the time][1001]
+
+ [1000]: {% post_url 2014-07-07-if-it-looks-like-a-words-then-it-is-a-word %}
+ [1001]: {% post_url 2014-08-25-if-it-looks-like-a-word-it-is-a-word-one-third-of-the-time %}

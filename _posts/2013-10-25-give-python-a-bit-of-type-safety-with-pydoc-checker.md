@@ -29,3 +29,12 @@ Still, there is an issue: do you **trust your callers** to fulfill your (now exp
 [Pydoc Checker][1] modifies the functions and methods in your code adding a run-time validation of the type of the arguments, of the return value, and of the exceptions raised, based on the types declared in the Pydoc of the function or method. Running the testsuite with Pydoc Checker, and also leaving it enabled during the manual testing, **greatly increases the confidence** that the code follows the requests of the annotations, and by transitivity, of you, the programmer.
 
 A **similar approach** is followed by the JS compilers included in Closure, that tries to infer as much type information as possible from the code and from the type annotations in the JSDoc, and to confirm that there is a match between the guarantees of the callee and the request of the caller. The Closure approach is much more sophisticated (type inference is hard), and has the big advantage of happening at compile time, but has also some drawbacks: if the compiler is not able to infer some types, it is possible that further annotations silently become useless. Happening at run-time, instead, Pydoc Checker's checks are always performed for each annotated functions.
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [pydepgraph &#8211; A dependencies analyzer for Python][2000]
+
+ [2000]: {% post_url 2012-02-29-pydepgraph-a-dependencies-analyzer-for-python %}

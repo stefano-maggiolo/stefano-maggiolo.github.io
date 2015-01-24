@@ -37,3 +37,29 @@ Please, please, take some time to **learn the basics of LaTeX properly**. Take a
 LaTeX is a layer created in 1984 over TeX, a software designed in 1978. In computer terms, they are both **ancient**. In layman's terms, well, too. And you can totally feel it, especially if you are not only a simple user but try to work on it as a developer. Nonetheless, TeX and LaTeX are by far the most used typesetting softwares in academia, especially where the typesetting is harder (physics, or ancient language studies, to name two areas), and that is for a reason: there are **no viable alternatives**. Using anything but LaTeX (or another TeX derivative) for your journal article is just madness. On a side note: I am not a user of TeX, but judging from the few times I met it, I think using TeX is also madness (but of another, geekier, kind).
 
 Tune in next week for the second part!
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### Part of this series
+
+1. [Suboptimal LaTeX #1: intro][1000]
+1. [Suboptimal LaTeX #2: spacing][1001]
+1. [Suboptimal LaTeX #3: mathematical environments][1002]
+1. [Suboptimal LaTeX #4: mathematics][1003]
+1. [Suboptimal LaTeX #5: miscellanea][1004]
+
+ [1000]: {% post_url 2014-02-17-suboptimal-latex-1-intro %}
+ [1001]: {% post_url 2014-02-24-suboptimal-latex-2-spacing %}
+ [1002]: {% post_url 2014-03-03-suboptimal-latex-3-mathematical-environments %}
+ [1003]: {% post_url 2014-03-10-suboptimal-latex-4-mathematics %}
+ [1004]: {% post_url 2014-05-25-suboptimal-latex-5-miscellanea %}
+
+
+### See also
+
+1. [How to take lecture notes with LaTeX][2000]
+1. [LaTeX class for lecture notes][2001]
+
+ [2000]: {% post_url 2008-12-27-how-to-take-lecture-notes-with-latex %}
+ [2001]: {% post_url 2008-12-29-latex-class-for-lecture-notes %}

@@ -55,3 +55,29 @@ There are some subtleties in this procedure: for example, I prefer `equation` an
 The most important problem to me is that there isn't an easy way to provide alignment of the equations defined in the outer environment if you used an inner environment to write them. For example, the best way to write two equations with two lines each, would be to use an `align` containing two `split` or `multline`; but then there is no way of aligning the two equality signs of the two main equations (except for [some hack][7]). Therefore, in these cases I heavily hearted use a single `align`.
 
  [7]: http://tex.stackexchange.com/a/44451
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### Part of this series
+
+1. [Suboptimal LaTeX #1: intro][1000]
+1. [Suboptimal LaTeX #2: spacing][1001]
+1. [Suboptimal LaTeX #3: mathematical environments][1002]
+1. [Suboptimal LaTeX #4: mathematics][1003]
+1. [Suboptimal LaTeX #5: miscellanea][1004]
+
+ [1000]: {% post_url 2014-02-17-suboptimal-latex-1-intro %}
+ [1001]: {% post_url 2014-02-24-suboptimal-latex-2-spacing %}
+ [1002]: {% post_url 2014-03-03-suboptimal-latex-3-mathematical-environments %}
+ [1003]: {% post_url 2014-03-10-suboptimal-latex-4-mathematics %}
+ [1004]: {% post_url 2014-05-25-suboptimal-latex-5-miscellanea %}
+
+
+### See also
+
+1. [How to take lecture notes with LaTeX][2000]
+1. [LaTeX class for lecture notes][2001]
+
+ [2000]: {% post_url 2008-12-27-how-to-take-lecture-notes-with-latex %}
+ [2001]: {% post_url 2008-12-29-latex-class-for-lecture-notes %}

@@ -23,3 +23,14 @@ One could think there could be adaptation's problems since, as most human beings
 
   * In Italy, for example, the earlier dawn is about at 4AM (not considering DST), while the last dawn is about at 7AM. Anyway, day by day the difference is no more than two minutes.
   * Sure, at Oslo the difference is between 2AM and 9AM, and maybe there will be some problem of adaptation. Anyway the simplicity of the system (having activities' times regulated by a centralized radio signal) allows to set time 0:00 not necessarily at dawn, allowing milder differences on a day by day basis.
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [How much is time wrong around the world?][2000]
+1. [Global time, emotional time, and the annoyance of DST][2001]
+
+ [2000]: {% post_url 2014-01-06-how-much-is-time-wrong-around-the-world %}
+ [2001]: {% post_url 2014-06-02-emotional-time %}

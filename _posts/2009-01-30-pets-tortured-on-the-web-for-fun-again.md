@@ -4,7 +4,7 @@ author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2009/01/pets-tortured-on-the-web-for-fun-again/
 categories:
-  - Humour
+  - Other
 ---
 It is the new trend on the web, pictures and videos of cute sleepy pets which just cannot stay awake. There are just tons of them in popular [video websites][1], and [specific blogs][2] appears every day. The most organized allow users to cast their vote to elect "the sleepiest of them all."
 

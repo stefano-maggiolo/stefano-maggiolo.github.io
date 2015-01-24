@@ -1,5 +1,5 @@
 ---
-title: Understanding Example 2.8 of “Threefolds and deformations of surface singularities”
+title: Threefolds and deformations of surface singularities
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2009/11/understanding-example-2-8-of-threefolds-and-deformations-of-surface-singularities/
@@ -15,7 +15,7 @@ Just two notes before starting: the technical one is that in order to have TeX f
 
  [1]: http://math.etsu.edu/LaTeXMathML/
 
-The paper from which the example is taken is "Threefolds and deformations of surface singularities" by Koll&aacute;r and Shepherd-Barron, published in vol. 91, n. 2 of Inventiones Mathematicae in 1988 (pag. 299-338); nonetheless, they write that it was already noted, e.g. by Pinkham in his PhD thesis.
+I will take a look at Example 2.8 from the paper "Threefolds and deformations of surface singularities" by Koll&aacute;r and Shepherd-Barron, published in vol. 91, n. 2 of Inventiones Mathematicae in 1988 (pag. 299-338); nonetheless, they write that it was already noted, e.g. by Pinkham in his PhD thesis.
 
 A theorem of Laufer states that if \\( f\colon X \to Y \\) is a flat family of normal surfaces with at worst Gorenstein singularities, then \\( K\_{\\mathrm{rel}, y}^2 \\) is lower semi-continuous and moreover it is locally constant if and only if \\( f \\) admits a very weak resolution of singularities, possibly after finite and surjective base change.
 

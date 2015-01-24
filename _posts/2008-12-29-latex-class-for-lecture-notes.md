@@ -91,3 +91,22 @@ Please note that my class is not licensed in any way. If you want to use it, you
 
  [18]: http://poisson.phc.unipi.it/~maggiolo/index.php/about-2/
 
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [How to take lecture notes with LaTeX][2000]
+1. [Suboptimal LaTeX #1: intro][2001]
+1. [Suboptimal LaTeX #2: spacing][2002]
+1. [Suboptimal LaTeX #3: mathematical environments][2003]
+1. [Suboptimal LaTeX #4: mathematics][2004]
+1. [Suboptimal LaTeX #5: miscellanea][2005]
+
+ [2000]: {% post_url 2008-12-27-how-to-take-lecture-notes-with-latex %}
+ [2001]: {% post_url 2014-02-17-suboptimal-latex-1-intro %}
+ [2002]: {% post_url 2014-02-24-suboptimal-latex-2-spacing %}
+ [2003]: {% post_url 2014-03-03-suboptimal-latex-3-mathematical-environments %}
+ [2004]: {% post_url 2014-03-10-suboptimal-latex-4-mathematics %}
+ [2005]: {% post_url 2014-05-25-suboptimal-latex-5-miscellanea %}
