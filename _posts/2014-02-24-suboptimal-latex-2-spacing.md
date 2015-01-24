@@ -3,6 +3,7 @@ title: 'Suboptimal LaTeX #2: spacing'
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/02/suboptimal-latex-2-spacing/
+description: 'Some of the most common LaTeX mistakes and how to fix them. This part focuses on spacing errors: even if you cannot see it, it does not mean it is not important.'
 categories:
   - Typography
 ---

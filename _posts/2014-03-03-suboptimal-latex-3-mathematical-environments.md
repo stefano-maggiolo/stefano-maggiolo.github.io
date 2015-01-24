@@ -3,6 +3,7 @@ title: 'Suboptimal LaTeX #3: mathematical environments'
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/03/suboptimal-latex-3-mathematical-environments/
+description: 'Some of the most common LaTeX mistakes and how to fix them. This part is about the math environments: choose the correct one and use it effectively.'
 categories:
   - Typography
 ---

@@ -3,6 +3,7 @@ title: 'Suboptimal LaTeX #1: intro'
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/02/suboptimal-latex-1-intro/
+description: 'Some of the most common LaTeX mistakes and how to fix them. The introduction focuses on some generic mistakes especially in your writing workflow.'
 categories:
   - Typography
 ---

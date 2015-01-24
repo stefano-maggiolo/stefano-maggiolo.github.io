@@ -3,6 +3,7 @@ title: Global time, emotional time, and the annoyance of DST
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/06/emotional-time/
+description: 'Is time really a convention? Could we switch time system as easy as we switch currency?'
 categories:
   - Statistics
 ---

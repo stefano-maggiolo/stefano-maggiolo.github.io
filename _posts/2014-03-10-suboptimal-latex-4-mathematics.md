@@ -3,6 +3,7 @@ title: 'Suboptimal LaTeX #4: mathematics'
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/03/suboptimal-latex-4-mathematics/
+description: 'Some of the most common LaTeX mistakes and how to fix them. This episode is about writing mathematics.'
 categories:
   - Typography
 ---

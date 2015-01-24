@@ -3,6 +3,7 @@ title: How much is time wrong around the world?
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/01/how-much-is-time-wrong-around-the-world/
+description: 'Why Spaniards have dinner so late? A map of the difference between solar time and clock time around the world.'
 categories:
   - Statistics
 ---

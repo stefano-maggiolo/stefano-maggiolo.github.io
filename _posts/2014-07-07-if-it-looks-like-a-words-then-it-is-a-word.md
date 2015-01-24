@@ -3,6 +3,7 @@ title: If it looks like a words, then it is a word (?)
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/07/if-it-looks-like-a-words-then-it-is-a-word/
+description: 'English has so many three-letter words that it seems that all trigrams that look like a word, are actually a word. Is it really true?'
 categories:
   - Statistics
 ---

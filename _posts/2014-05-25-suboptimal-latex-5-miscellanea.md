@@ -3,6 +3,7 @@ title: 'Suboptimal LaTeX #5: miscellanea'
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/05/suboptimal-latex-5-miscellanea/
+description: 'Some of the most common LaTeX mistakes and how to fix them. A final bag of suggestions for you.'
 categories:
   - Typography
 ---

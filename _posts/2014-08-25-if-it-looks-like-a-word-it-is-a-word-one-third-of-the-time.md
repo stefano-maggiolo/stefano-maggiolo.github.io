@@ -3,6 +3,7 @@ title: If it looks like a word, it is a word one third of the time
 author: Stefano Maggiolo
 layout: post
 original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/2014/08/if-it-looks-like-a-word-it-is-a-word-one-third-of-the-time/
+description: 'Continuing our discussion on the frequency of three-letter words. Spoiler: I was wrong!'
 categories:
   - Statistics
 ---
