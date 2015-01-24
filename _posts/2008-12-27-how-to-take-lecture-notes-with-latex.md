@@ -71,13 +71,13 @@ To sum up, I list in a single place (here) the downloads linked throughout the a
  [2]: http://en.wikipedia.org/wiki/Klingon_writing_systems#KLI_pIqaD
  [3]: http://www.unicode.org/charts/symbols.html
  [4]: http://live.gnome.org/Gucharmap
- [6]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/us_math.gz
+ [6]: /files/us_math.gz
  [8]: http://dejavu.sourceforge.net/
- [9]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/data.zip
+ [9]: /files/data.zip
  [10]: http://projects.gnome.org/gedit/
  [11]: http://live.gnome.org/Gedit/LaTeXPlugin
- [12]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/commons.sty
- [13]: http://poisson.phc.unipi.it/~maggiolo/index.php/tag/commu/
+ [12]: /files/commons.sty
+ [13]: {% post_url 2008-12-14-commu %}
  [14]: http://icculus.org/referencer/
  [15]: http://www.pps.jussieu.fr/~beffara/soft/rubber/
 

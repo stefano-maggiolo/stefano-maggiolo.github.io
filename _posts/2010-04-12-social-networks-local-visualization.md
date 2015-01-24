@@ -9,7 +9,7 @@ categories:
 Recently I discover [vizster][1], an academic project (written by a Stanford's professor and a recent Berkeley PhD), devoted to the visualization of local portions of a social network graph. Since I wrote a [software to automatically draw graphs][2] too, I wanted to see how much a specific software could overcome mine.
 
  [1]: http://hci.stanford.edu/jheer/projects/vizster/
- [2]: http://poisson.phc.unipi.it/~maggiolo/index.php/tag/netviz
+ [2]: {% post_url 2008-12-15-netviz %}
 
 <!--more-->
 

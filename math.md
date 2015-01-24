@@ -28,8 +28,8 @@ original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/math-works/
  [4]: http://www.sciencedirect.com/science/article/pii/S0747717111000794
  [5]: http://arxiv.org/abs/1002.3494
  [6]: http://poisson.phc.unipi.it/~maggiolo/Math/Godeaux/
- [7]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/On_the_automorphism_group_of_certain_algebraic_varieties.pdf
- [8]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/Automorfismi_delle_superfici_di_Godeaux_con_torsione_di_ordine_4_e_5.pdf
- [9]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/Slide_automorfismi_delle_superfici_di_Godeaux_con_torsione_di_ordine_4_e_5.pdf
- [10]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/Geometria_delle_rette_di_P3.pdf
- [11]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/Slide_geometria_delle_rette_di_P3.pdf
+ [7]: /docs/On_the_automorphism_group_of_certain_algebraic_varieties.pdf
+ [8]: /docs/Automorfismi_delle_superfici_di_Godeaux_con_torsione_di_ordine_4_e_5.pdf
+ [9]: /docs/Slide_automorfismi_delle_superfici_di_Godeaux_con_torsione_di_ordine_4_e_5.pdf
+ [10]: /docs/Geometria_delle_rette_di_P3.pdf
+ [11]: /docs/Slide_geometria_delle_rette_di_P3.pdf

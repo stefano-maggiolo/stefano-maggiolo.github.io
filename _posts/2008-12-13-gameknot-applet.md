@@ -25,5 +25,5 @@ Here are some screenshots.
 
 The last version is 0.1.0, released the 31st March, 2007. You can download the source [here][3] and the deb package [here][4].
 
- [3]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/gameknot_applet-0.1.0.tar1.gz
- [4]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/gameknot-applet_0.1.0-1_i386.deb
+ [3]: /files/gameknot_applet-0.1.0.tar.gz
+ [4]: /files/gameknot-applet_0.1.0-1_i386.deb

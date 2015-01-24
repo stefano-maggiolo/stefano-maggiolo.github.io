@@ -71,8 +71,8 @@ As a more detailed example, I rewrote some pages of the previously mentioned boo
 * [Structured theorems, colors][5].
 
  [3]: http://books.google.com/books?id=Lrsvfxuaw7QC&#038;lpg=PP1&#038;pg=PA74#v=onepage&#038;q&#038;f=false
- [4]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2010/07/structured_th_bw.pdf
- [5]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2010/07/structured_th_col.pdf
+ [4]: /files/structured_th_bw.pdf
+ [5]: /files/structured_th_col.pdf
 
 *Note*: this post is very influenced from the reading of [How to write a proof][6] by Leslie Lamport. The effort of the author of LaTeX was to emphasize how putting structure in proofs can help avoiding errors. I think that this is because it helps people to understand, so why can't we use the same approach everywhere?
 

@@ -16,8 +16,8 @@ In the [last post][1] I wrote about how to take notes with LaTeX; that post focu
 
 To begin, [LaTeX class file for lecture notes][2] you can find the class file I wrote for my notes. Just put it in you LaTeX tree (or in the directory of your document), with the `sty` [file][3], and write a document with the following structure.
 
- [2]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/notes.cls
- [3]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/commons.sty
+ [2]: /files/notes.cls
+ [3]: /files/commons.sty
 
 {% highlight latex %}
 \documentclass[OPTIONS]{Notes}
@@ -57,7 +57,7 @@ The class defines also some commands:
 
 Two words on what you get with this class file: the main **difference** is the font (Palatino instead of Computer Modern); the second main difference is the use of small-caps instead of boldface. I have to say I needed these modifications because I was very tired of the standard, omnipresent LaTeX style. Other small notable differences are the centered titles --- because I'm not writing a book --- and the theorem numbers placed before the word "theorem" --- to make easier searching for them. If you want to see an example, download a recent document from my [lecture notes page][4].
 
- [4]: http://poisson.phc.unipi.it/~maggiolo/index.php/lecture-notes/
+ [4]: /lecture-notes/
 
 Let's give a look on the **packages** this class requires, at least the ones you should use in your everyday documents.
 
@@ -89,7 +89,7 @@ Let's give a look on the **packages** this class requires, at least the ones you
 
 Please note that my class is not licensed in any way. If you want to use it, you're free to do anything you want with them. Anyway, I will be happy if you just drop [me][18] a line telling me you're using it.
 
- [18]: http://poisson.phc.unipi.it/~maggiolo/index.php/about-2/
+ [18]: /about/
 
 
 <!-- DO NOT EDIT BELOW THIS LINE -->

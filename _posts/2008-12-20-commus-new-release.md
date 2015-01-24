@@ -8,7 +8,7 @@ categories:
 ---
 You can download [here][1] the latest version of Commu, 20081219.
 
- [1]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/commu-20081219.tar.gz
+ [1]: /files/commu-20081219.tar.gz
 
 <!--more-->
 

@@ -26,19 +26,19 @@ Here are the notes from some course I followed. No warranties are intended: use 
 
 ### SISSA
 
-  * *2008&ndash;2009* 
+  * *2008&ndash;2009*
     * [Introduction to modular forms][14] (Prof. Lothar Göttsche)
     * [Algebraic stacks][15] (Prof. Barbara Fantechi)
 
 ### Università di Pisa
 
-  * *2007&ndash;2008* 
+  * *2007&ndash;2008*
     * [Analisi numerica][16] (Prof. Dario Bini)
     * [Elementi di algebra superiore 2][17] (Prof. Giovanni Gaiffi)
     * [Teoria dei gruppi][18] (Dr. Rocco Chirivì)
     * [Teoria geometrica degli invarianti][19] (Prof. Giorgio Ottaviani)
 
-  * *2006&ndash;2007* 
+  * *2006&ndash;2007*
     * [Algebra computazionale][20] (Dr. Massimo Caboara)
     * [Algebra superiore 1][21] (Prof. Giovanni Gaiffi)
     * [Analisi complessa][22] (Prof. Francesca Acquistapace)
@@ -47,31 +47,31 @@ Here are the notes from some course I followed. No warranties are intended: use 
 
 ### Università di Ferrara
 
-  * *2005&ndash;2006* 
+  * *2005&ndash;2006*
       * [Teoria delle categorie][25] (Prof. Claudia Menini)
 
  [1]: mailto:ste@poormansmath.net
- [2]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/GM.zip
- [3]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/GM_Reineke.pdf
- [4]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/GM_Farkas.pdf
- [5]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/YRAAG.zip
- [6]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/YRAAG_Bruinier.pdf
- [7]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/YRAAG_Fantechi.pdf
- [8]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/YRAAG_Hoering.pdf
- [9]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/WDTII.zip
- [10]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/WDTII_Fantechi.pdf
- [11]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/WDTII_Lieblich.pdf
- [12]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/WDTII_Sernesi.pdf
- [13]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/WDTII_Pridham.pdf
- [14]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/introduction_to_modular_forms.pdf
- [15]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/algebraic_stacks.pdf
- [16]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/analisi_numerica.pdf
- [17]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/elementi_di_algebra_superiore_2.pdf
- [18]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/teoria_dei_gruppi.pdf
- [19]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/teoria_geometrica_degli_invarianti.pdf
- [20]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/algebra_computazionale.pdf
- [21]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/algebra_superiore_1.pdf
- [22]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/analisi_complessa.pdf
- [23]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/teoria_algebrica_dei_numeri_1.pdf
- [24]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/teoria_delle_rappresentazioni.pdf
- [25]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2008/12/teoria_delle_categorie.pdf
+ [2]: /docs/GM.zip
+ [3]: /docs/GM_Reineke.pdf
+ [4]: /docs/GM_Farkas.pdf
+ [5]: /docs/YRAAG.zip
+ [6]: /docs/YRAAG_Bruinier.pdf
+ [7]: /docs/YRAAG_Fantechi.pdf
+ [8]: /docs/YRAAG_Hoering.pdf
+ [9]: /docs/WDTII.zip
+ [10]: /docs/WDTII_Fantechi.pdf
+ [11]: /docs/WDTII_Lieblich.pdf
+ [12]: /docs/WDTII_Sernesi.pdf
+ [13]: /docs/WDTII_Pridham.pdf
+ [14]: /docs/introduction_to_modular_forms.pdf
+ [15]: /docs/algebraic_stacks.pdf
+ [16]: /docs/analisi_numerica.pdf
+ [17]: /docs/elementi_di_algebra_superiore_2.pdf
+ [18]: /docs/teoria_dei_gruppi.pdf
+ [19]: /docs/teoria_geometrica_degli_invarianti.pdf
+ [20]: /docs/algebra_computazionale.pdf
+ [21]: /docs/algebra_superiore_1.pdf
+ [22]: /docs/analisi_complessa.pdf
+ [23]: /docs/teoria_algebrica_dei_numeri_1.pdf
+ [24]: /docs/teoria_delle_rappresentazioni.pdf
+ [25]: /docs/teoria_delle_categorie.pdf

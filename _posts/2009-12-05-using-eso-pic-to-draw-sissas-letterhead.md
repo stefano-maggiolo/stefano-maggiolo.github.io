@@ -33,7 +33,7 @@ A simple solution is to use eso-pic to draw the letterhead as a watermark in eve
 
 Of course this snippet can be used in any situation, not only with letteracdp. You only have to download [Sissa's logo][2] (converted from the SVG obtained [here][3]).
 
- [2]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2009/12/sissa.pdf
+ [2]: /files/sissa.pdf
  [3]: http://www.sissa.it/download/index.php?path=logo%2Fnew%2Fvector/
 
 For future reference, here are two example of simple letters in Italian and in English.
@@ -41,7 +41,7 @@ For future reference, here are two example of simple letters in Italian and in E
 * Example of usage of letteracdp in Italian ([sources][4], [PDF][5]).
 * Example of usage of letteracdp in English ([sources][6], [PDF][7]).
 
- [4]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2009/12/lettera_italiano.tex
- [5]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2009/12/lettera_italiano.pdf
- [6]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2009/12/letter_english.tex
- [7]: http://poisson.phc.unipi.it/~maggiolo/wp-content/uploads/2009/12/letter_english.pdf
+ [4]: /files/lettera_italiano.tex
+ [5]: /files/lettera_italiano.pdf
+ [6]: /files/letter_english.tex
+ [7]: /files/letter_english.pdf
