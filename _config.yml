@@ -11,7 +11,7 @@ footer-links:
   rss: rss
 
 disqus: poormansmath
-google_analytics: # UA-2077547-5
+google_analytics: UA-2077547-5
 
 markdown: kramdown
 highlighter: pygments
