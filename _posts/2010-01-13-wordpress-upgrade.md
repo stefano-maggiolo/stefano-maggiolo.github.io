@@ -14,3 +14,12 @@ Thanks to the never-thanked-enough "macchinisti", [poisson][1]&#8216;s administr
 
 UPDATE (January 25): things should be ok now!
 
+
+<!-- DO NOT EDIT BELOW THIS LINE -->
+* * *
+
+### See also
+
+1. [A new year][2000]
+
+ [2000]: {% post_url 2015-01-26-a-new-year %}

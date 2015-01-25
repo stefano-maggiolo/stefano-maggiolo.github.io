@@ -27,3 +27,6 @@
 
 2012-02-29-pydepgraph-a-dependencies-analyzer-for-python
 2013-10-25-give-python-a-bit-of-type-safety-with-pydoc-checker
+
+2010-01-13-wordpress-upgrade
+2015-01-26-a-new-year
