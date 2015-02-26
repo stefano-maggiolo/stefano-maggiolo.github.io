@@ -44,6 +44,8 @@ Indeed, if we acknowledge that the two problems must be solved, the natural resu
 
 1. [My two cents on the daylight saving time][2000]
 1. [Global time, emotional time, and the annoyance of DST][2001]
+1. [The time it takes to change the time][2002]
 
  [2000]: {% post_url 2009-03-22-my-two-cents-on-the-daylight-saving-time %}
  [2001]: {% post_url 2014-06-02-emotional-time %}
+ [2002]: {% post_url 2015-02-17-the-time-it-takes-to-change-the-time %}

@@ -65,6 +65,8 @@ Even more so, using a global time would mean that people had to lose their emoti
 
 1. [My two cents on the daylight saving time][2000]
 1. [How much is time wrong around the world?][2001]
+1. [The time it takes to change the time][2002]
 
  [2000]: {% post_url 2009-03-22-my-two-cents-on-the-daylight-saving-time %}
  [2001]: {% post_url 2014-01-06-how-much-is-time-wrong-around-the-world %}
+ [2002]: {% post_url 2015-02-17-the-time-it-takes-to-change-the-time %}

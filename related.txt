@@ -24,6 +24,7 @@
 2009-03-22-my-two-cents-on-the-daylight-saving-time
 2014-01-06-how-much-is-time-wrong-around-the-world
 2014-06-02-emotional-time
+2015-02-17-the-time-it-takes-to-change-the-time
 
 2012-02-29-pydepgraph-a-dependencies-analyzer-for-python
 2013-10-25-give-python-a-bit-of-type-safety-with-pydoc-checker

@@ -31,6 +31,8 @@ One could think there could be adaptation's problems since, as most human beings
 
 1. [How much is time wrong around the world?][2000]
 1. [Global time, emotional time, and the annoyance of DST][2001]
+1. [The time it takes to change the time][2002]
 
  [2000]: {% post_url 2014-01-06-how-much-is-time-wrong-around-the-world %}
  [2001]: {% post_url 2014-06-02-emotional-time %}
+ [2002]: {% post_url 2015-02-17-the-time-it-takes-to-change-the-time %}
