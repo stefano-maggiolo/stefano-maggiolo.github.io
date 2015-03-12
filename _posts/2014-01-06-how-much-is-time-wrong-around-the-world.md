@@ -11,6 +11,10 @@ A few years ago I went to Spain for the first time, and like many I was surprise
 
 <!--more-->
 
+> **Note.** Click [here][5] for a new, updated, version of the map, with some more discussion.
+
+ [5]: {% post_url 2015-02-17-the-time-it-takes-to-change-the-time %}
+
 {% include figure.html width=300 float='left' url='/images/SolarTimeVsStandardTime.png' caption='Solar time vs standard time' %}
 
 At the time I'm writing, near the winter solstice, Madrid's sunset is around 17:55, **more than an hour later** than the sunset in, for example, Naples, which is at a similar latitude. The same difference holds at the summer solstice and around the year. Just because it applies to most places I've been, a time like that in Naples feels more natural to me, and probably to most non-Spanish people. But is it?
