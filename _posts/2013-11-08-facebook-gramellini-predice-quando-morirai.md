@@ -13,7 +13,7 @@ Ora che ho l'attenzione del pubblico, devo dire che a me questa [storia][1] di [
 
 <!--more-->
 
-{% include figure.html width=160 float='left' url='https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/c0.0.160.160/p160x160/174709_30012863663_1167912274_n.jpg' caption='Gramellini' %}
+{% include figure.html width=160 float='left' url='gramellini.jpg' caption='Gramellini' %}
 
 Al primo passaggio (24 ottobre) abbiamo **l'originale**, un [articolo scientifico su arXiv][3], che definisce una nuova metrica per identificare un partner in una rete sociale; tra varie osservazioni accessorie, tentano (a mio avviso non con particolare successo) di correlare questa metrica con la stabilità della coppia. Questa osservazione occupa il 3-5% dell'articolo.
 

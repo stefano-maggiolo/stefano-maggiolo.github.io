@@ -28,7 +28,7 @@ Another surprising hole in the LaTeX knowledge of some author is **defining new 
 
 ### Labels and refs
 
-{% include figure.html width=150 float='right' url='/images/miscellanea_eqref.png' caption='(ref) and eqref' %}
+{% include figure.html width=150 float='right' url='miscellanea_eqref.png' caption='(ref) and eqref' %}
 
 It might comes as a surprise, but I've also witnessed (fortunately, just two) authors not knowing about **automatic references** with `\label` and `\ref`. Fixing their articles has been... interesting. Much more common is not knowing about `\eqref` for **citing equations**: writing the parentheses by yourself achieve a similar looking result, but using a semantic command can be quite useful in the typesetting phase. Speaking of `\ref` and `\eqref`, it is essential to use a **non-breaking space** before them, to avoid having the number as the first character of a new line. To do so, just change the space with a tilde like in this example:
 
@@ -75,7 +75,7 @@ for a Theorem environment that you can use with `\begin{thm}`. Remember that the
 \newtheorem{note}{Note}
 {% endhighlight %}
 
-{% include figure.html width=150 float='right' url='/images/miscellanea_theorems.png' caption='Theorems with amsthm' %}
+{% include figure.html width=150 float='right' url='miscellanea_theorems.png' caption='Theorems with amsthm' %}
 
 It also provides many other configurations, like whether to show the numbering and when to reset it.
 

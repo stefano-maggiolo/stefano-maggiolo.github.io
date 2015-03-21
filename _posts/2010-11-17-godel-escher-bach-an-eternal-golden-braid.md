@@ -16,7 +16,7 @@ The book I am suggesting is the amazing result of these investigations. Hofstadt
 
 Every chapter of the essay focuses on particular examples of the two concepts, and is preceded by a dialog between characters inspired by Lewis Carroll's "What the Tortoise said to Achille". In these dialogs Hofstadter gave his best. They are a never ending collection of puns, puzzles, word plays, self-reference to themselves, to the book, to the following chapter, to the work of Gödel, Escher, and Bach, and, I suspect, to the Universe as a whole. Nonetheless, they are not "beautiful and useless", but the language and ideas they introduce are used throughout the following chapters to explain difficult concepts. In order to give a visual interpretation of what I am talking about, consider the cover of the book.
 
-{% include figure.html url='/images/gbe.jpg' caption='GBE with rounded corners, by fdecomite' %}
+{% include figure.html url='gbe.jpg' caption='GBE with rounded corners, by fdecomite' %}
 
 Then, expressed visually, Hofstadter's book is like seeing an "H" when lighting the cube from a corner: it shines a light on the interconnected works of Gödel, Escher, and Bach, but is also a work of art of in itself, with the same dignity and even more deep connection to the others.
 

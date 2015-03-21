@@ -30,7 +30,7 @@ Now we are ready to **show** something. Let's start with [pyzmq][2], the Python 
 pydepgraph -p pyzmq -g 2 | dot -Tpng -o graph.png
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph01.png' caption='libzmq dependencies, clustered.' %}
+{% include figure.html width=200 url='depgraph01.png' caption='libzmq dependencies, clustered.' %}
 
 With those options, we just specified the path we want to analyze (multiple paths can be inserted, comma-separated) and the type of graph we wanted, with these meaning:
 
@@ -47,7 +47,7 @@ The output is cluttered with the many (and not very informative) clusters in exa
 pydepgraph -p pyzmq -e examples,docs -g 2 | dot -Tpng -o graph.png
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph02.png' caption='libzmq dependencies, clustered, without uninformative nodes.' %}
+{% include figure.html width=200 url='depgraph02.png' caption='libzmq dependencies, clustered, without uninformative nodes.' %}
 
 So we obtained a nice, loop-free graph of the main components of pyzmq, but we can look in more details at all the modules (removing some more non-informative pieces).
 
@@ -55,7 +55,7 @@ So we obtained a nice, loop-free graph of the main components of pyzmq, but we c
 pydepgraph -p pyzmq -e examples,docs,tests,setupegg.py,zmqversion.py,setup.py,buildutils.py -g 1 | dot -Tpng -o graph.png
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph03.png' caption='libzmq dependencies, without uninformative nodes.' %}
+{% include figure.html width=200 url='depgraph03.png' caption='libzmq dependencies, without uninformative nodes.' %}
 
 Let us consider another example, [pip][3]: we start with the cluster representation (avoiding docs and tests).
 
@@ -65,7 +65,7 @@ Let us consider another example, [pip][3]: we start with the cluster representat
 pydepgraph -p pip -e docs,tests -g 2 | dot -Tpng -o graph.png
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph04.png' caption='pip dependencies, clustered, without uninformative nodes.' %}
+{% include figure.html width=200 url='depgraph04.png' caption='pip dependencies, clustered, without uninformative nodes.' %}
 
 Where we can observe a loop between `pip` and `pip.vcs`. Going to the details, we look at the non-clustered view of the modules (removing some more to simplify the view).
 
@@ -73,7 +73,7 @@ Where we can observe a loop between `pip` and `pip.vcs`. Going to the details, w
 pydepgraph -p pip -e docs,tests,commands,contrib,setup.py -g 0 | dot -Tpng -o graph.png
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph05.png' caption='pip dependencies, non-clustered, without uninformative nodes.' %}
+{% include figure.html width=200 url='depgraph05.png' caption='pip dependencies, non-clustered, without uninformative nodes.' %}
 
 Using this view, we can find out of place modules and other things to reorganize, even though obtaining a nice graph in this way is quite difficult. But pyzmq manages to have a nice graph.
 
@@ -81,7 +81,7 @@ Using this view, we can find out of place modules and other things to reorganize
 pydepgraph -p pyzmq -e examples,docs,tests,setupegg.py,zmqversion.py,setup.py,buildutils.py -g 0 | dot -Tpng -o graph.png
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph06.png' caption='libzmq dependencies, non-clustered, without uninformative nodes.' %}
+{% include figure.html width=200 url='depgraph06.png' caption='libzmq dependencies, non-clustered, without uninformative nodes.' %}
 
 Let us take a look at [tornado][4] main structure. We want a clustered view, but pydepgraph would find too many clusters for this project, so we specify the comma-separated list of the clusters we like to see with the `-c` switch.
 
@@ -91,7 +91,7 @@ Let us take a look at [tornado][4] main structure. We want a clustered view, but
 pydepgraph -p tornado -c demos,tornado,tornado.platform,maint,website.tornado,website,tornado.test -g 2 | dot -Tpng -o graph.png
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph07.png' caption='tornado dependencies, clustered.' %}
+{% include figure.html width=200 url='depgraph07.png' caption='tornado dependencies, clustered.' %}
 
 And finally, here is the cluster graph of [CMS][5], the project I am currently working on. I just avoided the building directories created by setuptools.
 
@@ -101,7 +101,7 @@ And finally, here is the cluster graph of [CMS][5], the project I am currently w
 pydepgraph -p cms -e build,cms.egg-info,dist -g 2 | dot -Tpng -o
 {% endhighlight %}
 
-{% include figure.html width=200 url='/images/depgraph08.png' caption='CMS dependencies, clustered.' %}
+{% include figure.html width=200 url='depgraph08.png' caption='CMS dependencies, clustered.' %}
 
 <!-- DO NOT EDIT BELOW THIS LINE -->
 * * *

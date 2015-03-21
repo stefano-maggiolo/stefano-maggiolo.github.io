@@ -10,7 +10,7 @@ To keep in touch with friends all over the world! **Not really**. It's true I ha
 
 <!--more-->
 
-{% include figure.html width=220 float='right' url='/images/facebook_smurf.png' caption='A stupid quiz saw on Facebook: "Which smurf are you?"' %}
+{% include figure.html width=220 float='right' url='facebook_smurf.png' caption='A stupid quiz saw on Facebook: "Which smurf are you?"' %}
 
 So, the answer is: because everyone had it, invited me, told me how many laughs they were having with that latest funny picture of whoever and so on. As usual, I **gave up** in a period in which I was bored and looked for something culturally cheap to do, and now I spend some minutes everyday watching that funny picture which actually isn't very funny, damn.
 

@@ -15,7 +15,7 @@ A few years ago I went to Spain for the first time, and like many I was surprise
 
  [5]: {% post_url 2015-02-17-the-time-it-takes-to-change-the-time %}
 
-{% include figure.html width=300 float='left' url='/images/SolarTimeVsStandardTime.png' caption='Solar time vs standard time' %}
+{% include figure.html width=300 float='left' url='SolarTimeVsStandardTime.png' caption='Solar time vs standard time' %}
 
 At the time I'm writing, near the winter solstice, Madrid's sunset is around 17:55, **more than an hour later** than the sunset in, for example, Naples, which is at a similar latitude. The same difference holds at the summer solstice and around the year. Just because it applies to most places I've been, a time like that in Naples feels more natural to me, and probably to most non-Spanish people. But is it?
 
@@ -25,7 +25,7 @@ Looking for other regions of the world having the same peculiarity of Spain, I e
 
 So, why do some countries are forced to have such discrepancies? The only way to assign to a place a **canonical time** which follows our main assumptions is to observe the instant in the day when the Sun is higher in the sky, and call that 12:00. This is **not practical** for at least two important reasons.
 
-{% include figure.html width=150 float='right' url='/images/analemma-sun.jpg' caption='Analemma of the sun' %}
+{% include figure.html width=150 float='right' url='analemma-sun.jpg' caption='Analemma of the sun' %}
 
 One is that (solar) **days do not all have the same length**: the modern calendar compensates by letting midday oscillate a bit around the year: for example, midday in Naples goes from 11:47 in early November to 12:17 in early February. The difference between solar noon and clock noon is beautifully explained by an analemma, a picture with an exposure taken every few days at clock noon, showing how the sun moves in the sky not only in height (the north-south) direction due to the different seasons, but also in the east-west direction due precisely to the different lengths of the solar days.
 

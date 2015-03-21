@@ -26,13 +26,13 @@ The question is: **does it matter to be generous**? For some values of \\( p \\)
 
 So, we have that \\( r \\) is the sum of all favorable cases: \\( r = p + (1-p)qr \\), and solving for \\( r \\) we get \\( r = \frac{p}{1 - q + qp} \\).
 
-{% include figure.html width=200 float='right' url='/images/coffee-chart-005.png' caption='r as q changes for p = 0.05' %}
+{% include figure.html width=200 float='right' url='coffee-chart-005.png' caption='r as q changes for p = 0.05' %}
 
 Mmm. Is this good or bad? Let us try plotting for some values of \\( p \\). I'd say that a sane guessing for \\( p \\) is 5 percent. The following is what happens when \\( q \\) changes.
 
 **Not very good**: to have a clean portafilter more than one half of the times, only 5 percent (\\( q = 0.95 \\)) of the remaining people are allowed to be careless! Even worse, if the remaining people are half careless and half not (\\( q = 0.50 \\)), we will have a clean portafilter a mere one tenth of the times. Maybe if there were more generous, like, 10 percent…
 
-{% include figure.html width=200 float='left' url='/images/coffee-chart-010.png' caption='r as q changes for p = 0.10' %}
+{% include figure.html width=200 float='left' url='coffee-chart-010.png' caption='r as q changes for p = 0.10' %}
 
 **Not a big improvement**: for a half possibility of a clean portafilter we need less than 10 percent of careless (\\( q = 0.90 \\)), and if half of the remaining people were not careless, we would had a clean portafilter less than one out of five times (\\( r = 0.18 \\)).
 

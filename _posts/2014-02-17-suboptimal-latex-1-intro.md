@@ -15,7 +15,7 @@ In one of my previous careers, I have been a **typesetter** for a journal in hig
 
 In this first, introductory, post, let us see some top-level guidelines.
 
-{% include figure.html width=150 float='right' url='/images/LaTeX_logo.png' caption='LaTeX' %}
+{% include figure.html width=150 float='right' url='LaTeX_logo.png' caption='LaTeX' %}
 
 ### Editing vs. typesetting
 

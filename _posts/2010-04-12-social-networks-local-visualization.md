@@ -21,8 +21,8 @@ Since I don't have any actual social graph in my hands, the only test I can do i
 So, plugging the graph to vizster and to NetViz, these were the results.
 
 {% include gallery-start.html %}
-{% include gallery.html width=200 url='/images/vizster.png' caption='My Facebook graph with vizster' %}
-{% include gallery.html width=200 url='/images/netviz.png' caption='My Facebook graph with NetViz' %}
+{% include gallery.html width=200 url='vizster.png' caption='My Facebook graph with vizster' %}
+{% include gallery.html width=200 url='netviz.png' caption='My Facebook graph with NetViz' %}
 {% include gallery-end.html %}
 
 A quick explanation. vizster uses some kind of spring model (so the position evolves with times and friendship relations pull points together); also, it clusters points; it is not perfect but tweaking the parameter you see in the bottom, it is pretty acceptable. I think the clusterization does not use the position in the drawing, but just the raw graph data.

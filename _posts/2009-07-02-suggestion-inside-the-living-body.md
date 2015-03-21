@@ -12,5 +12,5 @@ Maybe, [*Inside the living body*][1] isn't the most useful documentary about hum
 
 <!--more-->
 
-{% include figure.html url='/images/esophagus.jpg' caption='An esophagus --- and it gets much, much worse' %}
+{% include figure.html url='esophagus.jpg' caption='An esophagus --- and it gets much, much worse' %}
 

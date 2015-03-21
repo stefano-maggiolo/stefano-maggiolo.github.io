@@ -33,7 +33,7 @@ This is a pet peeve of mine, after having to deal most of the time with authors 
 
 So, what should you use? The short answer is: any of the `amsmath` environments, that you can read in the previously linked [documentation][4]. But maybe you want some more **direct help** in choosing.
 
-{% include figure.html width=150 float='right' url='/images/math_aligned.png' caption='Example of inner and outer environments' %}
+{% include figure.html width=150 float='right' url='math_aligned.png' caption='Example of inner and outer environments' %}
 
 The first thing to know is that `amsmath` environment can be categorized in two sets: **outer and inner environments**. Outer environments, like `equation`, `align` and `multline` are indeed the external building block of your display, whereas inner environments can be used to give the proper alignment to specific parts of the display. A way of think of this is that each line of an outer environments is an "equation", hence needs an equation number, whereas lines in an inner environment do not define new "equations". You can see an example in the figure, even if the best way to do something like that is using the `cases` environment.
 
@@ -49,7 +49,7 @@ To understand what environment I need, I usually start counting how many equatio
 
   * if there are more equations, I usually use `align`, and rarely `gather` when the equations have no easy alignment.
 
-{% include figure.html width=150 float='right' url='/images/math_environments.png' caption='Showcase of math environments' %}
+{% include figure.html width=150 float='right' url='math_environments.png' caption='Showcase of math environments' %}
 
 There are some subtleties in this procedure: for example, I prefer `equation` and `split` over `align` because of the vertically centered equation number. Note also that if you have a lot of short equations, you can use `align` to put more of them in a single line, keeping the alignment, just using more ampersands.
 

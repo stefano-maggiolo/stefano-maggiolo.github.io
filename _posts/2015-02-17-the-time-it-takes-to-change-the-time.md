@@ -23,7 +23,7 @@ Apart from this big change, the new map reflects that some territories in **Ukra
 
 [5]: http://en.wikipedia.org/wiki/Quintana_Roo#Time_zone
 
-{% include figure.html width=450 float='left' url='/images/SolarTimeVsStandardTimeV2.png' caption='Solar time vs standard time' %}
+{% include figure.html width=450 float='left' url='SolarTimeVsStandardTimeV2.png' caption='Solar time vs standard time' %}
 
 Overall, the map is still skewed towards the red (which means that the solar noon is later in the day), and most of what [could be observed][1] from the first version is still valid. In particular, for the joy of reddit commentators, **China** is still very red.
 

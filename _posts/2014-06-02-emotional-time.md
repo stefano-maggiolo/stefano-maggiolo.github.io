@@ -13,13 +13,13 @@ My post on the [difference between local time and solar time][1] obtained some m
 
 <!--more-->
 
-{% include figure.html width=250 float='right' url='/images/SolarTimeVsStandardTime.png' caption='Solar time vs standard time' %}
+{% include figure.html width=250 float='right' url='SolarTimeVsStandardTime.png' caption='Solar time vs standard time' %}
 
 One of the main reaction to my map was surprise about the **predominance of red areas** (where the sun peaks after twelve o'clock) versus green areas (where the peak is before 12:00). This is easy to understand, if you think about it: would you prefer to live in a place where the sun shines from 05:00 to 17:00, or where it shines from 07:00 to 19:00? I doubt that many people would prefer the first (green) alternative to the second (red). [[^1]]
 
  [^1]: Places like this exists: for the green one, an example is October in Recife, a city of almost four million people in eastern Brazil; for the red, May in Singapore.
 
-{% include figure.html width=250 float='left' url='/images/daylight-saving-world-subdivisions.png' caption='Areas observing DST' %}
+{% include figure.html width=250 float='left' url='daylight-saving-world-subdivisions.png' caption='Areas observing DST' %}
 
 This explains why the majority of people is in a "red" part of the world, even **without considering daylight saving time** [[^2]], that during the summer shifts most of Europe and Northern America one hour towards the red. [[^3]]
 
@@ -40,7 +40,7 @@ As distances around the globe become shorter thanks to the internet, the need fo
 
 Since emotional time varies only slightly around the world, it is then easy to understand which hours are reasonable for the other party. Just add the difference and compare with your emotional time, which hopefully is not very different from that in the other country.
 
-{% include figure.html width=150 float='left' url='/images/swatch-beat-logo.png' caption='Swatch Internet Time' %}
+{% include figure.html width=150 float='left' url='swatch-beat-logo.png' caption='Swatch Internet Time' %}
 
 Still, as the number of timezones to consider increases, this becomes more and more awkward, and there have been several attempts to create a **global time**: a time system in which an instant is called in the same way anywhere in the world. In 1998, Swatch introduced the [Swatch Internet Time][6], where a day is divided in 1000 *beats*, each of them slightly shorted than 1.5 minutes. Swatch built upon the valid attempts of converting people to [decimal times][7] during the French Revolution, but added the "global time" part. [[^5]] [New Earth Time][9] is a similar concepts of a global time, but based on angles instead of decimal systems, and hence every day is subdivided in 360 parts. [Globetime][10] is a more recent project that has been brought to my attention, and uses the same subdivision.
 

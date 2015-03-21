@@ -10,4 +10,4 @@ In English, roughly: the first news is about Obama speaking of getting rid of nu
 
 <!--more-->
 
-{% include figure.html url='/images/rainews_obama_berlusconi.png' caption='The will to leave' %}
+{% include figure.html url='rainews_obama_berlusconi.png' caption='The will to leave' %}

@@ -1,6 +1,7 @@
 figure {
   text-align: center;
   margin: 25px auto;
+  max-width: 100%;
 }
 
 figure.left {
@@ -33,9 +34,25 @@ figcaption {
   background-color: rgba(0.0, 0.0, 0.0, 0.8);
 }
 
-.figure-a {
-  position: fixed;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+.figure-bg img {
+  background-color: white;
+  margin: auto;
+  position: absolute;
+  top: -10px;
+  left:0;
+  right:0;
+  bottom: 0;
+  max-height: 90%;
+  max-width: 90%;
+}
+
+.figure-bg figcaption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.figure-bg figcaption a {
+  color: #EEE;
+  font-weight: bold;
 }

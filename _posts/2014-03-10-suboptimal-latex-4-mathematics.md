@@ -23,7 +23,7 @@ As for the previous episodes, the source for all figures in this post is in a [w
 
 Every time I see a paper containing this mistake I cry a little bit: it is probably one of the most unprofessional errors that writers of scientific content with LaTeX can do. What is it? It is writing multi-letter symbols and even --- please world forgive them --- entire words in math mode without any escaping. It is simply horrible.
 
-{% include figure.html width=150 float='right' url='/images/mathematics_text.png' caption='Text in math mode' %}
+{% include figure.html width=150 float='right' url='mathematics_text.png' caption='Text in math mode' %}
 
 What happens is that whenever you write letters as they are, LaTeX thinks that each letter is a symbol on its own. "`This is bad`" in the figure is rendered as if each letter was a symbol and you were multiplying all of them together (of course, spaces disappear). I have seen this error in many situations, such as (from the less ugly to the ugliest):
 
@@ -40,7 +40,7 @@ In the other cases, you are inserting some text in mathematical mode; the correc
 
 Apart from the situation presented above (multi-letter function names), there is at least another important case where you should use `\mathrm`: in the infamous "dx" at the end of an integral, the "d" should be upright... ok, maybe this is just my opinion, but it should!
 
-{% include figure.html width=150 float='right' url='/images/mathematics_dx.png' caption='Integrals and dx' %}
+{% include figure.html width=150 float='right' url='mathematics_dx.png' caption='Integrals and dx' %}
 
 Less debatable is the fact that LaTeX does not know that your "dx" has a different meaning in the integral than the function to integrate, and thus should be properly highlighted by leaving some space before it. I use the smallest standard space available, `\,`.
 

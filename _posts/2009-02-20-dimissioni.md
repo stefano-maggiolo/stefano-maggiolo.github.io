@@ -14,7 +14,7 @@ Il presidente del consiglio entra di peso nella campagna elettorale in Sardegna,
 
 Questo è successo prima di rendermi conto che non ho mai votato per Veltroni e che non è il mio candidato. E non perché ci fosse davvero qualcuno di migliore, la rappresentanza ideale non esiste. Veltroni ha provato, ma a fare cosa?
 
-{% include figure.html width=200 float='right' url='/images/manifesti_veltroni_2.jpg' caption='Manifesti usati da Veltroni in campagna elettorale' %}
+{% include figure.html width=200 float='right' url='manifesti_veltroni_2.jpg' caption='Manifesti usati da Veltroni in campagna elettorale' %}
 
 Ha provato a far uscire il paese dalla spirale del protagonismo di Berlusconi, con la faccenda del "principale esponente dello schieramento avverso"; se per questo scopo avesse trovato l'accordo col principale esponente dell'editoria italiana, cioè Berlusconi, magari ci sarebbe riuscito; peccato che non fosse d'accordo.
 

@@ -17,7 +17,7 @@ Nevertheless, Lost depiction of time travels is not my favorite. Let's review it
 
 This ultimately ends up in this: what they are living in the seventies has already happened  ---  there's no free will for them in the past. When they were in the present, they never met they're future their selves, but that's just fortuity.
 
-{% include figure.html url='/images/lost_time_travel.png' caption='Lost time travel' %}
+{% include figure.html url='lost_time_travel.png' caption='Lost time travel' %}
 
 Another interesting things to observe is the following situation. To fix ideas, call "blue survivor" the one living in the present and "red survivor" the one living in the past, as in the figure. Assume the survivor write his diary; it will account the facts happened during the '70, '80, '90, '00 to the blue survivor, then again, in the '70, '80, ... to the red survivor. Then in 2003, the red survivor could mail the diary to the blue survivor. Now, blue survivor could read the diary and he will be forced to do all the things written in the diary: no free will. And not only for the red survivor, but also for the blue one who is living his present [[^1]]!
 

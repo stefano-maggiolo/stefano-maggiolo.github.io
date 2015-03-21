@@ -17,24 +17,24 @@ It is often easy for an Italian to be able to place a city in its region just he
 
  [1]: http://it.wikipedia.org/wiki/Limbiate
 
-{% include figure.html float='right' width=200 url='/images/power.png' caption='Power law of towns endings.' %}
+{% include figure.html float='right' width=200 url='power.png' caption='Power law of towns endings.' %}
 
 So, the project started downloading names, latitude and longitude of (almost) all about eight thousand Italian towns, using Wikipedia's lists. The precise number is 8019 towns. The endings, which should start from the stressed letter, are computed instead in an approximated way (basically, they start from the last vowel before the last group of consonants).
 
 The first observation is that if we sort the endings by their number of towns, we obtain an almost perfect **power law** distribution, as expected (here in the plot the axes are logarithmic, hence a perfect power law is just a straight line).
 
-{% include figure.html float='left' width=200 url='/images/gif_SN.gif' caption='Most common endings, from south to north.' %}
-{% include figure.html float='left' width=200 url='/images/gif_EO.gif' caption='Most common endings, from west to east.' %}
+{% include figure.html float='left' width=200 url='gif_SN.gif' caption='Most common endings, from south to north.' %}
+{% include figure.html float='left' width=200 url='gif_EO.gif' caption='Most common endings, from west to east.' %}
 
 I was curious about the **most localized endings**. The first thing one can try is to find the endings whose average longitude is very high or very low.
 
 This because I expected that the most localized endings came from Celts and Gauls in the north, and Greeks in the south. Only the first expectations turned out to be true, indeed there are many endings very local in the north part of Italy: "--ate", "--engo", "--es", "--on", "--ago", etc. The same is not true for the south part of Italy. The same analysis in the east-west direction reveales also endings common in Sardinia. It is interesting to notice that one of the most common ending in the isle is "--is", which has a strong presence also in the north-east part of Italy, probably for completely different reasons.
 
-{% include figure.html float='right' width=200 url='/images/gif_VAR.gif' caption='Most common endings, from more localized to less localized, using variance.' %}
+{% include figure.html float='right' width=200 url='gif_VAR.gif' caption='Most common endings, from more localized to less localized, using variance.' %}
 
 A more refined way to find localized endings is to look at the **variance**. The problem is the presence of many outliers, that is, towns with the same ending but very isolated from the mean. This problem is somehow reduced if we consider the so called absolute deviation instead of the standard deviation. One can also look at some combination of the variances (or the absolute deviations) for the two directions, and this works also well because Italy has south-north and west-east as the two principal directions, but nevertheless we have no better insight than using the two dimensional version.
 
-{% include figure.html float='left' width=200 url='/images/gif_CLUS.gif' caption='Most common endings, from more localized to less localized, using clustering and variance.' %}
+{% include figure.html float='left' width=200 url='gif_CLUS.gif' caption='Most common endings, from more localized to less localized, using clustering and variance.' %}
 
 There is still one problem though, that is the one of Sardinia and Friuli-Venezia Giulia (the north-east region) sharing the same ending "--is". Using a plain statistical measure will consider the two very localized communities as a non-local one, so the idea is to apply a **clustering algorithm** and then use as the "score" an (algebraic) combination of the sum of variances of the clusters, the variance of the whole population, and the number of cluster needed. I decided to settle to use as the score the product of the total variance, the sum of variances to the 3/2 and the number of clusters, so I gave more importance to the sum of variances of the clusters.
 

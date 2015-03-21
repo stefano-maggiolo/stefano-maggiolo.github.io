@@ -19,7 +19,7 @@ All LaTeX fragments I used to produce the figures are collected in [this writeLa
 
 ### Vertical spacing between paragraphs
 
-{% include figure.html width=200 float='right' url='/images/spacing_double_backslashes.png' caption='Space between paragraph' %}
+{% include figure.html width=200 float='right' url='spacing_double_backslashes.png' caption='Space between paragraph' %}
 
 In LaTeX, leaving a blank line is the way of ending a paragraph, which means starting a new line and applying the necessary indent. But not all paragraph breaks are equal: if a paragraph also ends a logic part of the section, leave more space by ending it with two backslashes (to go to a new line) and a blank line (to start a new paragraph). I think I never had the need to go to a new line without creating a new paragraph, writing `\\` without the blank line right after.
 
@@ -29,7 +29,7 @@ At typesetting time, you may need to tweak the vertical spacing between paragrap
 
 ### Vertical space before an equation
 
-{% include figure.html width=200 float='right' url='/images/spacing_before_math.png' caption='Spacing before an equation' %}
+{% include figure.html width=200 float='right' url='spacing_before_math.png' caption='Spacing before an equation' %}
 
 A similar error occurs when you leave a blank line before a mathematical environment: long story short, do not do it. You can see in the figure the difference between the two cases.
 
@@ -39,7 +39,7 @@ If you are thinking "then if I use the default style, I can ignore this suggesti
 
 ### Vertical spacing sneaking in
 
-{% include figure.html width=250 float='right' url='/images/spacing_centering.png' caption='Space within environments' %}
+{% include figure.html width=250 float='right' url='spacing_centering.png' caption='Space within environments' %}
 
 Some environments have the not obvious side effect of inserting vertical spacing. The main example here is `center`. The alternative is `\centering`, which unlike the environment does not add any vertical spacing. Another alternative is `\centerline`, which can be used only for very small pieces of text or for figures, because it does not wrap over new lines. See the figure for the differences.
 
@@ -47,7 +47,7 @@ The same problem occurs with the environments `flushright` and `flushleft`: to a
 
 ### Horizontal spacing in `align`
 
-{% include figure.html width=200 float='right' url='/images/spacing_align.png' caption='Spacing in alignment' %}
+{% include figure.html width=200 float='right' url='spacing_align.png' caption='Spacing in alignment' %}
 
 Horizontal spacing is more difficult to get wrong, but there is a common mistake when using the `align` in mathematical mode. It happens when you put the alignment ampersand <emph>after</emph> the equality sign instead than before, as in the figure.
 

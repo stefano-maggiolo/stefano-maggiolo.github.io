@@ -14,7 +14,7 @@ Premesso che non sono un sostenitore della scheda bianca o dell'astensione, ogni
 
 Per spiegarmi userò l'[esempio][2] dato dall'attualità, confrontato con le elezioni regionali del [2005][3] [[^2]]: ciò che ci viene mostrato dai media è questo.
 
-{% include figure.html url='/images/elezioni_percentuali_votanti.png' caption='Percentuali rispetto ai votanti, in blu il 2005, in rosso il 2008' %}
+{% include figure.html url='elezioni_percentuali_votanti.png' caption='Percentuali rispetto ai votanti, in blu il 2005, in rosso il 2008' %}
 
 Da cui si evince chiaramente l'enorme crescita dell'IDV, a discapito del PD, che cede voti anche al PDL; infine un congruo ma non drammatico calo dell'UDC, dovuto anche al fatto che quest'ultima volta non faceva parte di una coalizione in grado di vincere (ah, il voto utile). Se vogliamo parlare di cifre, ecco la tabella.
 
@@ -29,7 +29,7 @@ Per esempio, il PD ha perso circa metà dei suoi voti, passando da quasi il 32% 
 
 Forse vi sarete accorti che finora ho usato la parola “voti”, perché è la stessa che sentiamo usare spesso in questa situazione, quando l'espressione corretta sarebbe "percentuale sui votanti". In effetti, se si usassero il numero effettivo di voti, la situazione sarebbe diversa.
 
-{% include figure.html url='/images/elezioni_voti.png' caption='Numero di voti, in blu il 2005, in rosso il 2008' %}
+{% include figure.html url='elezioni_voti.png' caption='Numero di voti, in blu il 2005, in rosso il 2008' %}
 
 Certo, per quanto riguarda il 2008 non cambia nulla, i non votanti non possono decidere chi vince. Ma nel rapporto con 3 anni fa, con il numero di aventi diritto sostanzialmente uguale, scopriamo che se andiamo a guardare **davvero** i voti, il calo del PD e dell'UDC supera la metà dei voti ottenuti nel 2005; in particolare per il PD rasenta il 60%. Ma sopratutto, per il PDL abbiamo un calo di circa 9000 voti, pari a più del 4%; non un aumento del 25%!
 

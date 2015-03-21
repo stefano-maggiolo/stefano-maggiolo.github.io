@@ -10,4 +10,4 @@ categories:
 
 <!--more-->
 
-{% include figure.html url='/images/tim_captcha.png' caption='New TIM captcha' %}
+{% include figure.html url='tim_captcha.png' caption='New TIM captcha' %}

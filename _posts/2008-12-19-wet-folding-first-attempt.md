@@ -12,7 +12,7 @@ In my work, when I realize that I will never understand some mathematical concep
 
  <!--more-->
  
-{% include figure.html url='/images/origami-walrus.jpg' caption='Walrus origami, design by John Montroll' width=200 float='right' %}
+{% include figure.html url='origami-walrus.jpg' caption='Walrus origami, design by John Montroll' width=200 float='right' %}
 
 But this post is about origami, not math. I was looking for a simple enough origami to begin my **wet-folding** career (I'm not very good at dry-folding, and this explains the introduction). After some searching --- and some attempts badly ended --- I found this walrus by [John Montroll][2]. Simple but cute and with some “tuck-inside-ness” I like very much. So here's the photo.
 

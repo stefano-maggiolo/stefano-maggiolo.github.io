@@ -64,7 +64,7 @@ Also, due to mistakes in the recognition and to the size of the corpus, there ar
 
 #### Number of words
 
-{% include figure.html width=250 float='right' url='/images/words-above-freq.png' caption='Number of words above a certain frequency' %}
+{% include figure.html width=250 float='right' url='words-above-freq.png' caption='Number of words above a certain frequency' %}
 
 To see which language has **the most three-letter words**, we just need to see which line is highest around the 4.5-5.0 mark on the graph in the fourth sheet (that you can also see here on the right). The two lines for English (British and American), which are obviously very similar, are always well ahead of neolatin languages (Italian, Spanish and French) [[^4]]. German is ahead at the beginning, meaning that it has more very popular three-letter words, but loses its stamina as it progresses to rarer words, eventually aligning with neolatin languages.
 
@@ -72,7 +72,7 @@ To see which language has **the most three-letter words**, we just need to see w
 
 #### Words usage
 
-{% include figure.html width=250 float='right' url='/images/words-cumulative-usage.png' caption='Cumulative usage of the top n words' %}
+{% include figure.html width=250 float='right' url='words-cumulative-usage.png' caption='Cumulative usage of the top n words' %}
 
 Let us look now at words usage instead, that is, **which proportion of words in actual books are three-letter words**. The answer is in the graph in the fifth sheet and again copied here on the left.
 
@@ -82,7 +82,7 @@ Because of the strong start highlighted in the previous section, German leads: w
 
 The question we started from was a different one, though: **if it looks like a word, is it a word**? I collected some preliminary results on which percentage of trigrams are actual words in the considered languages in the third sheet (and in the last corresponding graph).
 
-{% include figure.html width=250 float='right' url='/images/three-letter-words-over-trigrams.png' caption='Percentage of three-letter words over all trigrams' %}
+{% include figure.html width=250 float='right' url='three-letter-words-over-trigrams.png' caption='Percentage of three-letter words over all trigrams' %}
 
 The answer really depends on what we consider a letter: English is easy, 26 letters, but **other languages are more complicated**. Italian as spoken and written nowadays, for example, has 21 "base" letters, and 7 additional letters with diacritics: *&agrave;*, *&egrave;*, *&eacute;*, *&igrave;*, *&ograve;*, *&oacute;*, *&ugrave;*: of these, only two have actual phonetic meaning (i.e., there is a phonetic difference between grave and acute accent), the others just mark the stressed syllable when it is the final one. Just a hundred year ago Italian had at least one base letter more (*j*) and some more diacritics variation. So, how many trigrams are there in Italian, 21 to the third, or 28 to the third? I think that the correct answer is the first, but not really sure, so I left both versions in the sheet.
 

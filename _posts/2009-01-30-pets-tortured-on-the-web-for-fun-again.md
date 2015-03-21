@@ -15,9 +15,9 @@ It is the new trend on the web, pictures and videos of cute sleepy pets which ju
 
 In the days the new Obama administration shuts down Guantanamo, the same people approving this measure may go to the web and take a moment to laugh at the effects of the same methods applied in the infamous prison. Sleep deprivation, forced drug consumption, various other harassing, physical and mental. Even if most of the users think they are just watching half asleep cute pets, what they are really watching are the effects of sleep deprivation, at least.
 
-{% include figure.html url='/images/cat-asleep.jpg' caption='Cat leaved in a cage without floor is unable to achieve its 16 hours per day of sleep' %}
+{% include figure.html url='cat-asleep.jpg' caption='Cat left in a cage without floor is unable to achieve its 16 hours per day of sleep' %}
 
-[Kittens][3] forced to stay awake for days, continuously poked by at least three humans doing turns. [Dog puppies][4] so clearly drugged that risk to drown in their own water bowl. [Little polar bears][5] leaved in starvation to have them dreaming about food and make funny cries. And the competition makes all worse: hard-hearted pet owners fall in a spiral of violence just to catch their animals with a dangling head, almost closed eyes and a drooling mouth. All for the show, all for the fun.
+[Kittens][3] forced to stay awake for days, continuously poked by at least three humans doing turns. [Dog puppies][4] so clearly drugged that risk to drown in their own water bowl. [Little polar bears][5] left in starvation to have them dreaming about food and make funny cries. And the competition makes all worse: hard-hearted pet owners fall in a spiral of violence just to catch their animals with a dangling head, almost closed eyes and a drooling mouth. All for the show, all for the fun.
 
  [3]: http://www.cutethingsfallingasleep.org/2008/12/sleepy-kitten-16.html
  [4]: http://www.cutethingsfallingasleep.org/2008/12/sleepy-puppy-15.html
