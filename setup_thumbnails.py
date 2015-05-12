@@ -14,6 +14,9 @@ def run():
    thumbnails for the width specified in the posts.
 
    """
+   # Do not overwrite existing thumbnails.
+   overwrite = False
+
    # Finding the widths of the thumbnails.
    widths = {}
    for post in glob("./_posts/*.md"):
@@ -30,19 +33,22 @@ def run():
          except:
             continue
 
-   # Removing existing thumbnails.
    thumbnails = glob("./images/thumbnail_*")
-   for thumbnail in thumbnails:
-      print "Deleting", thumbnail
-      os.unlink(thumbnail)
+
+   # Removing existing thumbnails.
+   if overwrite:
+      for thumbnail in thumbnails:
+         print "Deleting", thumbnail
+         os.unlink(thumbnail)
 
    # Creating the new thumbnails.
    for image in widths:
       for width in widths[image]:
          name = "./images/" + image
          newname = ("./images/thumbnail_%s_" % width) + image
-         print "Converting", image
-         os.system("convert %s -resize %s %s" % (name, width, newname))
+         if overwrite or newname not in thumbnails:
+            print "Converting", image
+            os.system("convert %s -resize %s %s" % (name, width, newname))
 
    return 0
 
