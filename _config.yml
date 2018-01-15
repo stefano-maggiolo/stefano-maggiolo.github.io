@@ -23,7 +23,7 @@ version: v1.1.0
 sass:
   style: :compressed
 
-gems:
+plugins:
   - jekyll-sitemap
 
 excerpt_separator: <!--more-->
