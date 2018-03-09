@@ -24,10 +24,10 @@ original_url: http://poisson.phc.unipi.it/~maggiolo/index.php/math-works/
 
  [1]: http://arxiv.org/abs/1012.4777
  [2]: http://www.math.kth.se/~pagani/
- [3]: http://poisson.phc.unipi.it/~maggiolo/Math/boundary/
+ [3]: http://poisson.phc.dm.unipi.it/~maggiolo/Math/boundary/
  [4]: http://www.sciencedirect.com/science/article/pii/S0747717111000794
  [5]: http://arxiv.org/abs/1002.3494
- [6]: http://poisson.phc.unipi.it/~maggiolo/Math/Godeaux/
+ [6]: http://poisson.phc.dm.unipi.it/~maggiolo/Math/Godeaux/
  [7]: /docs/On_the_automorphism_group_of_certain_algebraic_varieties.pdf
  [8]: /docs/Automorfismi_delle_superfici_di_Godeaux_con_torsione_di_ordine_4_e_5.pdf
  [9]: /docs/Slide_automorfismi_delle_superfici_di_Godeaux_con_torsione_di_ordine_4_e_5.pdf

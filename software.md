@@ -36,6 +36,6 @@ Download latest version [here][6], or the sources on [github][7].
  [3]: https://github.com/cms-dev/cms/
  [4]: https://github.com/stefano-maggiolo/pydocchecker/
  [5]: http://sourceforge.net/projects/pgf
- [6]: http://poisson.phc.unipi.it/~maggiolo/Software/commu/
+ [6]: http://poisson.phc.dm.unipi.it/~maggiolo/Software/commu/
  [7]: https://github.com/stefano-maggiolo/commu/
  [8]: https://github.com/stefano-maggiolo/pydepgraph/
